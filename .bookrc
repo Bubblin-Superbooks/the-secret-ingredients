@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "the-secret-ingredients",
-  "type": "comics"
+  "name": "The Secret Ingredients",
+  "type": "comics",
+  "book_id": 344
 }
