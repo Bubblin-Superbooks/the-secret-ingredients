@@ -1,14 +1,14 @@
 {
   "name": "the-secret-ingredients",
   "version": "0.0.4",
-  "description": "Superbook the-secret-ingredients by marvin",
+  "description": "Superbook the-secret-ingredients by davidrevoy",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "marvin <marvin@bubbl.in> (https://bubbl.in/marvin)",
+  "author": "davidrevoy <marvindanig+comics+david+revoy@gmail.com> (https://bubbl.in/davidrevoy)",
   "license": "ISC",
-  "homepage": "https://bubbl.in/marvin",
+  "homepage": "https://bubbl.in/davidrevoy",
   "repository": {
     "type": "git",
     "url": "git+https://github/project/url/here"
